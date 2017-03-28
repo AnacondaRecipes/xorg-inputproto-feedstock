@@ -7,7 +7,7 @@ Package license: MIT
 
 Feedstock license: BSD 3-Clause
 
-Summary: Definitions for the XInput protocol.
+Summary: C prototypes for the XInput extension.
 
 
 
